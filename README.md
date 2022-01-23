@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Naofal/Opal
 - 👀 I’m interested in Web/Apps Development
-- 🌱 I’m currently learning on Java and HTML/CSS
 - 📫 naofalnirvana18@gmail.com
 
 <!---
