@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Naofal/Opal
-- 👀 I’m interested in Web/Apps Development
 - 📫 naofalnirvana18@gmail.com
 
 <!---
